@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home Page</title>
+  </head>
+  <body>
+    <h1>This is a home page 4890+5110</h1>
+    <h3><%= 4890+5110 %></h3>
+    <!-- converts html to string(js)-->
+    <h2><%= "mujeeb khan".toUpperCase() %></h2>
+    <h2><%= ["Welcome","Hello","Good morning!"][2] %></h2>
+
+    <p>
+      1. Frontend Technologies (For User Interface) <br />
+      • HTML: You already know this. It’s used for structuring the content of
+      the web pages. <br />
+      • CSS: You’re familiar with this too. It’s used for styling the web pages
+      (colors, layouts, fonts, etc.). <br />
+      • JavaScript: You’re currently learning this. It’s essential for making
+      your website interactive (e.g., filling in blanks, validating answers).
+      <br />
+      • Frontend Framework (Optional but Useful): React.js or Vue.js (Both are
+      JavaScript frameworks for building modern user interfaces).
+    </p>
+    <h2>This page belongs to <%= username %></h2>
+    <br />
+    <button>Follow</button>
+    <button>Message</button>
+
+    <h3>Accounts that follow you :</h3>
+    <ul>
+      <% for(let name of followers) { %>
+      <li><%= name %></li>
+      <% } %>
+    </ul>
+    <button>click me!</button>
+  </body>
+</html>

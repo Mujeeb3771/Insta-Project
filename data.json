@@ -1,0 +1,398 @@
+{
+  "fortuner": {
+    "name": "Fortuner",
+    "followers": 25000,
+    "following": 5,
+    "posts": [
+      {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2015_Toyota_Fortuner_%28New_Zealand%29.jpg/1200px-2015_Toyota_Fortuner_%28New_Zealand%29.jpg",
+        "likes": 200,
+        "comments": 17
+      },
+      {
+        "image": "https://spn-sta.spinny.com/blog/20221202123514/Toyota-Fortuner-1160x653.webp?compress=true&quality=80&w=1200&dpr=2.6",
+        "likes": 312,
+        "comments": 19
+      },
+      {
+        "image": "https://www.cartoq.com/wp-content/uploads/2022/05/fortuner-gr-s-1.jpg",
+        "likes": 1065,
+        "comments": 200
+      }
+    ]
+  },
+  "endeavour": {
+    "name": "Endeavour",
+    "followers": 75000,
+    "following": 150,
+    "posts": [
+      {
+        "image": "https://test.teamcardelight.com/wp-content/uploads/2024/01/Ford-Endeavour-5-things-to-know-1.png",
+        "likes": 3000,
+        "comments": 41
+      },
+      {
+        "image": "https://www.jagranimages.com/images/newimg/11012024/11_01_2024-ford_endeavour_23626661.webp",
+        "likes": 2500,
+        "comments": 32
+      },
+      {
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Ford/Endeavour/11580/1710203310359/grille-97.jpg",
+        "likes": 500,
+        "comments": 6
+      }
+    ]
+  },
+  "xuv700": {
+    "name": "XUV700",
+    "followers": 120000,
+    "following": 300,
+    "posts": [
+      {
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+        "likes": 4000,
+        "comments": 600
+      },
+      {
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-left-front-three-quarter-2.jpeg?isig=0&q=80",
+        "likes": 3800,
+        "comments": 40
+      },
+      {
+        "image": "https://www.rushlane.com/wp-content/uploads/2024/05/mahindra-xuv700-blaze-edition-launch-price-1200x675.jpg",
+        "likes": 3500,
+        "comments": 55
+      }
+    ]
+  },
+  "scorpio": {
+    "name": "Scorpio",
+    "followers": 100000,
+    "following": 100,
+    "posts": [
+      {
+        "image": "https://images.drivespark.com/webp/fit-in/450x350/car-image/car/15472590-mahindra_scorpio_classic.jpg",
+        "likes": 5000,
+        "comments": 90
+      },
+      {
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/46735/mahindra-scorpio-pic-1.jpeg",
+        "likes": 4700,
+        "comments": 75
+      },
+      {
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/128413/scorpio-exterior-right-front-three-quarter-47.jpeg?isig=0&q=80",
+        "likes": 4600,
+        "comments": 80
+      }
+    ]
+  },
+  "creta": {
+    "name": "Creta",
+    "followers": 90000,
+    "following": 50,
+    "posts": [
+      {
+        "image": "https://i.ytimg.com/vi/FjbPal_c0is/maxresdefault.jpg",
+        "likes": 4500,
+        "comments": 70
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLp8wiDBQNCP92G04N_C4i_yQfB4EyJAVM39e7RHO1vPQDbP6AYdE-XGJA3SZE6Bc7ihI&usqp=CAU",
+        "likes": 4200,
+        "comments": 60
+      },
+      {
+        "image": "https://s3.amazonaws.com/advaithmedia/backend/storage/uploads/2022/07/17054541/Abyss-Black-2.webp",
+        "likes": 4100,
+        "comments": 65
+      }
+    ]
+  },
+  "harrier": {
+    "name": "Harrier",
+    "followers": 60000,
+    "following": 120,
+    "posts": [
+      {
+        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202208/untitled-5-sixteen_nine.jpg?size=948:533",
+        "likes": 3200,
+        "comments": 45
+      },
+      {
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/139139/harrier-facelift-exterior-right-rear-three-quarter-19.jpeg?isig=0&q=80",
+        "likes": 3100,
+        "comments": 50
+      },
+      {
+        "image": "https://pbs.twimg.com/media/GH5rFM3XkAApgSd.jpg",
+        "likes": 2900,
+        "comments": 55
+      }
+    ]
+  },
+  "baleno": {
+    "name": "Baleno",
+    "followers": 80000,
+    "following": 90,
+    "posts": [
+      {
+        "image": "https://motoroctane.com/wp-content/uploads/2019/08/Baleno-front-e1578305824481.jpg",
+        "likes": 3600,
+        "comments": 30
+      },
+      {
+        "image": "https://5.imimg.com/data5/SELLER/Default/2021/11/ZP/DC/CY/6019791/baleno-nexa-500x500.jpg",
+        "likes": 3500,
+        "comments": 28
+      },
+      {
+        "image": "https://www.autovista.in/assets/img/new_cars_colour_variants/new-baleno-colour-pearl-arctic-white.jpg",
+        "likes": 3400,
+        "comments": 35
+      }
+    ]
+  },
+  "ecosport": {
+    "name": "EcoSport",
+    "followers": 45000,
+    "following": 70,
+    "posts": [
+      {
+        "image": "https://imgcdn.zigwheels.com.au/medium/gallery/exterior/6/57/ford-ecosport-front-medium-view-986570.jpg",
+        "likes": 1800,
+        "comments": 25
+      },
+      {
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Ford/EcoSport/7323/1609839628163/front-left-side-47.jpg",
+        "likes": 1600,
+        "comments": 20
+      },
+      {
+        "image": "https://www.edmunds.com/assets/m/ford/ecosport/2021/oem/2021_ford_ecosport_4dr-suv_titanium_fq_oem_1_600.jpg",
+        "likes": 1400,
+        "comments": 15
+      }
+    ]
+  },
+  "etios": {
+    "name": "Etios",
+    "followers": 30000,
+    "following": 50,
+    "posts": [
+      {
+        "image": "https://bangalorewheels.com/wp-content/uploads/toyota-etios-car-rental-in-bangalore-jpg.webp",
+        "likes": 1000,
+        "comments": 10
+      },
+      {
+        "image": "https://4.imimg.com/data4/EE/EE/GLADMIN-/img-etios1.jpg",
+        "likes": 900,
+        "comments": 12
+      },
+      {
+        "image": "https://www.dehradunrentacar.com/images/etios.webp",
+        "likes": 850,
+        "comments": 8
+      }
+    ]
+  },
+  "swift": {
+    "name": "Swift",
+    "followers": 120000,
+    "following": 100,
+    "posts": [
+      {
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/159231/swift-right-front-three-quarter.jpeg?isig=0&q=80",
+        "likes": 5000,
+        "comments": 90
+      },
+      {
+        "image": "https://i.ytimg.com/vi/TkD57NSasUw/sddefault.jpg",
+        "likes": 4800,
+        "comments": 85
+      },
+      {
+        "image": "https://spn-sta.spinny.com/blog/20230316193641/Spinny-Assured-Maruti-Swift-1160x653.webp?compress=true&quality=80&w=1200&dpr=2.6",
+        "likes": 4700,
+        "comments": 80
+      }
+    ]
+  },
+  "city": {
+    "name": "Honda City",
+    "followers": 85000,
+    "following": 110,
+    "posts": [
+      {
+        "image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/134287/city-exterior-right-front-three-quarter-77.jpeg?isig=0&q=80&q=80",
+        "likes": 2800,
+        "comments": 40
+      },
+      {
+        "image": "https://www.financialexpress.com/auto/images/model-city-seo-image-1726215712608.jpg",
+        "likes": 2600,
+        "comments": 35
+      },
+      {
+        "image": "https://www.hondacarindia.com/_next/image?url=https%3A%2F%2Fwww.hondacarindia.com%2Fweb-data%2Fmodels%2FcarModelImage%2Fcity5thGeneration%2FCity-Desktop.png&w=1920&q=75",
+        "likes": 2400,
+        "comments": 45
+      }
+    ]
+  },
+  "verna": {
+    "name": "Hyundai Verna",
+    "followers": 70000,
+    "following": 90,
+    "posts": [
+      {
+        "image": "https://i.ytimg.com/vi/djxKNTIdvhw/sddefault.jpg",
+        "likes": 3200,
+        "comments": 50
+      },
+      {
+        "image": "https://trident-group.s3.ap-south-1.amazonaws.com/hyundai/models/Verna/Gallery/1698315396.jpg",
+        "likes": 3000,
+        "comments": 60
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0AwY43pTWtpUX2ZMYyCP-lAg1P4-6pjAJRuO-ChFZRy2_ZDEwuKjUK08whnOuD-QPEDY&usqp=CAU",
+        "likes": 2800,
+        "comments": 45
+      }
+    ]
+  },
+  "dzire": {
+    "name": "Maruti Dzire",
+    "followers": 95000,
+    "following": 130,
+    "posts": [
+      {
+        "image": "https://www.spinny.com/blog/wp-content/uploads/2024/11/New-Maruti-Suzuki-Dzire-1-jpg.webp",
+        "likes": 2500,
+        "comments": 35
+      },
+      {
+        "image": "https://www.rushlane.com/wp-content/uploads/2024/11/new-maruti-dzire-walkaround-exteriors-dashboard-14.jpg",
+        "likes": 2300,
+        "comments": 40
+      },
+      {
+        "image": "https://www.marutisuzuki.com/images/dzire_brand/images/threesixty/red/BluishBlack.webp",
+        "likes": 2200,
+        "comments": 32
+      }
+    ]
+  },
+  "nexon": {
+    "name": "Tata Nexon",
+    "followers": 110000,
+    "following": 180,
+    "posts": [
+      {
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Nexon/11104/1697698470038/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+        "likes": 4800,
+        "comments": 70
+      },
+      {
+        "image": "https://www.financialexpress.com/wp-content/uploads/2023/06/Tata-Nexon-EV-Max.jpg?w=1024",
+        "likes": 4600,
+        "comments": 65
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwfsqhIWeIrBbL1aw_o4scmiNQgat-MFfVFGDctjmOkIsJ7JSCuzu-5aflDok-IrpHIt8&usqp=CAU",
+        "likes": 4500,
+        "comments": 72
+      }
+    ]
+  },
+  "thar": {
+    "name": "Mahindra Thar",
+    "followers": 130000,
+    "following": 100,
+    "posts": [
+      {
+        "image": "https://static.businessworld.in/WhatsApp%20Image%202024-08-21%20at%205.44.57%20PM_20240927140453_original_image_4.webp",
+        "likes": 5400,
+        "comments": 100
+      },
+      {
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202408/mahindra-thar-roxx-200912599-16x9_0.jpg?VersionId=8gFUdclSl6.epCT95iSrtU5MCXzyDyRR&size=690:388",
+        "likes": 5100,
+        "comments": 90
+      },
+      {
+        "image": "https://content.carlelo.com/uploads/model/mahindra-thar-1.webp",
+        "likes": 4800,
+        "comments": 85
+      }
+    ]
+  },
+  "seltos": {
+    "name": "Kia Seltos",
+    "followers": 95000,
+    "following": 120,
+    "posts": [
+      {
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Kia/Seltos-2023/8709/1688465684023/front-left-side-47.jpg",
+        "likes": 4200,
+        "comments": 60
+      },
+      {
+        "image": "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/174323/seltos-exterior-right-side-view.jpeg?isig=0&q=80",
+        "likes": 4000,
+        "comments": 55
+      },
+      {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kia_Seltos_SP2_PE_Snow_White_Pearl_%286%29_%28cropped%29.jpg/280px-Kia_Seltos_SP2_PE_Snow_White_Pearl_%286%29_%28cropped%29.jpg",
+        "likes": 3800,
+        "comments": 50
+      }
+    ]
+  },
+  "kwid": {
+    "name": "Renault Kwid",
+    "followers": 65000,
+    "following": 80,
+    "posts": [
+      {
+        "image": "https://images.91wheels.com/assets/b_images/main/models/profile/profile1702457525.jpg?width=480&q=60?width=480&q=60?w=750&q=60",
+        "likes": 2200,
+        "comments": 35
+      },
+      {
+        "image": "https://chybmedia.s3.ap-south-1.amazonaws.com/models/cars/kwid-13-363-66aa0f45eb877.jpg",
+        "likes": 2100,
+        "comments": 30
+      },
+      {
+        "image": "https://www.cars24.com/new-cars/_next/image/?url=https%3A%2F%2Fcdn.cars24.com%2Fprod%2Fnew-car-cms%2FRenault%2FKwid%2F2024%2F04%2F09%2F0cb5ba8b-cf73-4a34-bfc5-40f47cccfb4e-Renault_Kwid_Fiery-Red.png&w=640&q=75",
+        "likes": 2000,
+        "comments": 28
+      }
+    ]
+  },
+  "crysta": {
+    "name": "Toyota Innova Crysta",
+    "followers": 140000,
+    "following": 150,
+    "posts": [
+      {
+        "image": "https://static3.toyotabharat.com/images/showroom/innova-mmc/unmatched-unrivaled-banner1600x850.jpg",
+        "likes": 5500,
+        "comments": 120
+      },
+      {
+        "image": "https://spn-sta.spinny.com/blog/20221125173434/Toyota-Innova-Crysta-1160x653.webp?compress=true&quality=80&w=1200&dpr=2.6",
+        "likes": 5300,
+        "comments": 110
+      },
+      {
+        "image": "https://www.carandbike.com/_next/image?url=https%3A%2F%2Fimages.carandbike.com%2Fcar-images%2Fcolors%2Ftoyota%2Finnova-crysta%2Ftoyota-innova-crysta-attitude-black.jpg%3Fv%3D1695388505&w=640&q=75",
+        "likes": 5100,
+        "comments": 100
+      }
+    ]
+  }
+}

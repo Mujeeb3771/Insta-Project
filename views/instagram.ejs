@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Instagram</title>
+    <link rel="stylesheet" href="/css/style.css">
+  </head>
+  <body>
+    <h1 id="title-name">This page belongs to <%= data.name %> </h1>
+    <br />
+    <div class="button-container">
+    <button >Follow</button>
+    <button >Message</button>
+  </div>
+
+    <p>
+      Followers : <%= data.followers %> &nbsp;&nbsp;&nbsp;&nbsp;Following : <%=
+      data.following %>
+    </p>
+    <hr />
+
+    <% for(let post of data.posts) { %>
+    <!-- Loop starts here -->
+    <img src="<%= post.image %>" alt="some img" />
+    <p>
+      Likes : <%= post.likes %> &nbsp;&nbsp;&nbsp;&nbsp;Comments : <%=
+      post.comments %>
+       <hr />
+    </p>
+    <% } %><!-- Loop ends here -->
+
+    <footer>
+      <p>&copy; 2025 Insta. All Rights Reserved.</p>
+      <p>Developed by <strong>Mujeeb Khan</strong></p>
+    </footer>
+  
+  </body>
+</html>
